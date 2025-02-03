@@ -25,7 +25,7 @@ No código você pode verificar o que cada função retorna e a descrição de c
 - [Gabriel Mossato](https://github.com/gvmossato)
 - [Guilherme Colasante Sgarbiero](https://github.com/guicola-sg)
 - [Guilherme Corazza Marques](https://github.com/guicmarques)
-- [Guilherme Fernandes](https://github.com/aateg)
+- [Guilherme Fernandes G. Silva](https://github.com/guilhermefgs)
 - [Julia Pocciotti](https://github.com/juliapocciotti)
 - [Lucas Leme](https://github.com/lucas-leme)
 - [Noel Viscome Eliezer](https://github.com/anor4k)
